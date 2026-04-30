@@ -76,5 +76,5 @@ Authors: Adithya, Fathimathu Rusfida, Savnmandeep Kaur, Marupudi Rithika, Ikram 
   title = {Automatic News Summarization and Political Bias Analysis},
   year = {2026},
   publisher = {GitHub},
-  howpublished = {\url{https://github.com/YOUR-USERNAME/YOUR-REPO}}
+  howpublished = {\url{https://github.com/FaRusfida/Political-Bias-Summarization-Analysis}}
 }
