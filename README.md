@@ -19,8 +19,8 @@ This is a final year / capstone project from **Chandigarh University**.
 
 ## 👥 Team Members
 
-- **Adithya** (Lead Researcher) — aadityasehrawat761@gmail.com
-- **Student1** (Your Name) — [your email]
+- **Adithya** 
+- **Fathimathu Rusfida** 
 - **Savnmandeep Kaur**
 - **Marupudi Rithika**
 - **Ikram Ali**
