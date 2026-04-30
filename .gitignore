@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project specific ignores
+AllSides.zip
+allsides_data/
+*.zip
+.ipynb_checkpoints/
+content/
